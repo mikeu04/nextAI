@@ -16,4 +16,4 @@
 ### How to Start Running the Project
 1. Complete **Initial Setup**
 2. Under `server/` directory, run `node server.js` command to start the Backend Server at `PORT: 5001`
-3. Under root directory, run `npm start` to start the Frontend at [[PORT: 3000]{http}](http://localhost:3000)
+3. Under root directory, run `npm start` to start the Frontend at [PORT: 3000](http://localhost:3000)
